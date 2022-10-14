@@ -1,0 +1,1 @@
+Bluejack Showroom is a showroom program where we can view all transaction, buy vehicle, and delete transaction. This program is using Java (Abstract Class, Encapsulation, Inheritance, and Polymorphism) as the programming language and MySQL for its storage data.
